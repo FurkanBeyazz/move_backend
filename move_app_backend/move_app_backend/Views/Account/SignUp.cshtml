@@ -45,30 +45,31 @@
 				<div class="col-12">
 					<div class="sign__content">
 						<!-- registration form -->
-						<form action="#" class="sign__form">
+						<form method="post" class="sign__form">
 							<a href="index.html" class="sign__logo">
 								<img src="img/logo.svg" alt="">
 							</a>
 
 							<div class="sign__group">
-								<input type="text" class="sign__input" placeholder="Email">
+								<input type="text" class="sign__input" placeholder="Email" name="Email">
 							</div>
 							<div class="sign__group">
-								<input type="text" class="sign__input" placeholder="Kullanici Adi">
+								<input type="text" class="sign__input" placeholder="Kullanici Adi" name="UserName">
 							</div>
 							<div class="sign__group">
-								<input type="text" class="sign__input" placeholder="Ad Soyad">
+								<input type="text" class="sign__input" placeholder="Ad Soyad" name="NameSurname">
 							</div>
 
 							<div class="sign__group">
-								<input type="password" class="sign__input" placeholder="Sifre">
+								<input type="password" class="sign__input" placeholder="Sifre" name="Password">
 							</div>
 							<div class="sign__group">
-								<input type="password" class="sign__input" placeholder="Sifre Tekrar">
+								<input type="password" class="sign__input" placeholder="Sifre Tekrar" name="PasswordR">
 							</div>
 
-							<button class="sign__btn" type="button">Giris Yap</button>
+							<button class="sign__btn" type="submit">Kayıt Ol </button>
 
+							@ViewBag.paswordhas
 							<span class="sign__text">Hesabin Var mi? <a href="signin.html">Giris Yap</a></span>
 						</form>
 						<!-- registration form -->

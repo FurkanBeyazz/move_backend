@@ -8,10 +8,11 @@ namespace move_app_backend
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("server=DESKTOP-CH9SD0T;initial catalog=MovieDb; integrated Security=true");
+            optionsBuilder.UseSqlServer("server=DESKTOP-CH9SD0T; database=MovieDb; Encrypt = False;integrated Security=true;");
         }
         DbSet<Movies> movies { get; set; }
         DbSet<MoviesCategories> moviesCategories { get; set; }
         DbSet<UserFavoriteMove> moviesFavoriteMove { get; set; }
+
     }
 }

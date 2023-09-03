@@ -1,4 +1,5 @@
-﻿@{
+﻿@model move_app_backend.Model.Loginmodel
+@{
     Layout = null;
 }
 
@@ -44,24 +45,24 @@
                 <div class="col-12">
                     <div class="sign__content">
                         <!-- authorization form -->
-                        <form action="#" class="sign__form">
+                        <form  class="sign__form" method="post">
                             <a href="/Home/Index/" class="sign__logo">
                                 <img src="img/logo.svg" alt="">
                             </a>
 
                         
                                 <div class="sign__group">
-                                    <input type="text" class="sign__input" placeholder="Email">
+                                <input type="text" class="sign__input" placeholder="Email" name="Email">
                                 </div>
 
                                 <div class="sign__group">
-                                    <input type="password" class="sign__input" placeholder="Sifre">
+                                <input type="password" class="sign__input" placeholder="Sifre" name="Password">
                                 </div>
                          
 
 
 
-                            <button class="sign__btn" type="button">Giris Yap</button>
+                            <button class="sign__btn" type="submit">Giris Yap</button>
 
                             <span class="sign__text">Don't have an account? <a href="/Account/SignUp">Kayit Ol</a></span>
 
