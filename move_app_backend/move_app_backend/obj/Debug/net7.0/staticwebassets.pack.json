@@ -1,0 +1,565 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\move_app_backend.bundle.scp.css",
+      "PackagePath": "staticwebassets\\move_app_backend.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\404.html",
+      "PackagePath": "staticwebassets\\FlixMove\\404.html"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\about.html",
+      "PackagePath": "staticwebassets\\FlixMove\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\catalog1.html",
+      "PackagePath": "staticwebassets\\FlixMove\\catalog1.html"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\catalog2.html",
+      "PackagePath": "staticwebassets\\FlixMove\\catalog2.html"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\FlixMove\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\FlixMove\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\css\\default-skin-2.html",
+      "PackagePath": "staticwebassets\\FlixMove\\css\\default-skin-2.html"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\css\\default-skin.css",
+      "PackagePath": "staticwebassets\\FlixMove\\css\\default-skin.css"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\css\\default-skin.html",
+      "PackagePath": "staticwebassets\\FlixMove\\css\\default-skin.html"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\FlixMove\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\css\\jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets\\FlixMove\\css\\jquery.mCustomScrollbar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\css\\mCSB_buttons.html",
+      "PackagePath": "staticwebassets\\FlixMove\\css\\mCSB_buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\css\\main.css",
+      "PackagePath": "staticwebassets\\FlixMove\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\css\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\FlixMove\\css\\nouislider.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\FlixMove\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\css\\owl.video.play.html",
+      "PackagePath": "staticwebassets\\FlixMove\\css\\owl.video.play.html"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\css\\photoswipe.css",
+      "PackagePath": "staticwebassets\\FlixMove\\css\\photoswipe.css"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\css\\plyr.css",
+      "PackagePath": "staticwebassets\\FlixMove\\css\\plyr.css"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\css\\preloader.html",
+      "PackagePath": "staticwebassets\\FlixMove\\css\\preloader.html"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\details1.html",
+      "PackagePath": "staticwebassets\\FlixMove\\details1.html"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\details2.html",
+      "PackagePath": "staticwebassets\\FlixMove\\details2.html"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\faq.html",
+      "PackagePath": "staticwebassets\\FlixMove\\faq.html"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\fonts\\ioniconse0a5.eot",
+      "PackagePath": "staticwebassets\\FlixMove\\fonts\\ioniconse0a5.eot"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\fonts\\ioniconse0a5.svg",
+      "PackagePath": "staticwebassets\\FlixMove\\fonts\\ioniconse0a5.svg"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\fonts\\ioniconse0a5.ttf",
+      "PackagePath": "staticwebassets\\FlixMove\\fonts\\ioniconse0a5.ttf"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\fonts\\ioniconse0a5.woff",
+      "PackagePath": "staticwebassets\\FlixMove\\fonts\\ioniconse0a5.woff"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\fonts\\ioniconse0a5.woff2",
+      "PackagePath": "staticwebassets\\FlixMove\\fonts\\ioniconse0a5.woff2"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\icon\\apple-touch-icon-114x114.png",
+      "PackagePath": "staticwebassets\\FlixMove\\icon\\apple-touch-icon-114x114.png"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\icon\\apple-touch-icon-144x144.png",
+      "PackagePath": "staticwebassets\\FlixMove\\icon\\apple-touch-icon-144x144.png"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\icon\\apple-touch-icon-72x72.png",
+      "PackagePath": "staticwebassets\\FlixMove\\icon\\apple-touch-icon-72x72.png"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\icon\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\FlixMove\\icon\\favicon-32x32.png"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\img\\Download_on_the_App_Store_Badge.svg",
+      "PackagePath": "staticwebassets\\FlixMove\\img\\Download_on_the_App_Store_Badge.svg"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\img\\covers\\cover.jpg",
+      "PackagePath": "staticwebassets\\FlixMove\\img\\covers\\cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\img\\covers\\cover2.jpg",
+      "PackagePath": "staticwebassets\\FlixMove\\img\\covers\\cover2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\img\\covers\\cover3.jpg",
+      "PackagePath": "staticwebassets\\FlixMove\\img\\covers\\cover3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\img\\covers\\cover4.jpg",
+      "PackagePath": "staticwebassets\\FlixMove\\img\\covers\\cover4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\img\\covers\\cover5.jpg",
+      "PackagePath": "staticwebassets\\FlixMove\\img\\covers\\cover5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\img\\covers\\cover6.jpg",
+      "PackagePath": "staticwebassets\\FlixMove\\img\\covers\\cover6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\img\\gallery\\project-1.jpg",
+      "PackagePath": "staticwebassets\\FlixMove\\img\\gallery\\project-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\img\\gallery\\project-2.jpg",
+      "PackagePath": "staticwebassets\\FlixMove\\img\\gallery\\project-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\img\\gallery\\project-3.jpg",
+      "PackagePath": "staticwebassets\\FlixMove\\img\\gallery\\project-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\img\\gallery\\project-4.jpg",
+      "PackagePath": "staticwebassets\\FlixMove\\img\\gallery\\project-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\img\\gallery\\project-5.jpg",
+      "PackagePath": "staticwebassets\\FlixMove\\img\\gallery\\project-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\img\\gallery\\project-6.jpg",
+      "PackagePath": "staticwebassets\\FlixMove\\img\\gallery\\project-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\img\\google-play-badge.png",
+      "PackagePath": "staticwebassets\\FlixMove\\img\\google-play-badge.png"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\img\\home\\home__bg.jpg",
+      "PackagePath": "staticwebassets\\FlixMove\\img\\home\\home__bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\img\\home\\home__bg2.jpg",
+      "PackagePath": "staticwebassets\\FlixMove\\img\\home\\home__bg2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\img\\home\\home__bg3.jpg",
+      "PackagePath": "staticwebassets\\FlixMove\\img\\home\\home__bg3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\img\\home\\home__bg4.jpg",
+      "PackagePath": "staticwebassets\\FlixMove\\img\\home\\home__bg4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\img\\logo.svg",
+      "PackagePath": "staticwebassets\\FlixMove\\img\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\img\\partners\\3docean-light-background.png",
+      "PackagePath": "staticwebassets\\FlixMove\\img\\partners\\3docean-light-background.png"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\img\\partners\\activeden-light-background.png",
+      "PackagePath": "staticwebassets\\FlixMove\\img\\partners\\activeden-light-background.png"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\img\\partners\\audiojungle-light-background.png",
+      "PackagePath": "staticwebassets\\FlixMove\\img\\partners\\audiojungle-light-background.png"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\img\\partners\\codecanyon-light-background.png",
+      "PackagePath": "staticwebassets\\FlixMove\\img\\partners\\codecanyon-light-background.png"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\img\\partners\\photodune-light-background.png",
+      "PackagePath": "staticwebassets\\FlixMove\\img\\partners\\photodune-light-background.png"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\img\\partners\\themeforest-light-background.png",
+      "PackagePath": "staticwebassets\\FlixMove\\img\\partners\\themeforest-light-background.png"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\img\\section\\section.jpg",
+      "PackagePath": "staticwebassets\\FlixMove\\img\\section\\section.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\img\\user.png",
+      "PackagePath": "staticwebassets\\FlixMove\\img\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\index.html",
+      "PackagePath": "staticwebassets\\FlixMove\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\index2.html",
+      "PackagePath": "staticwebassets\\FlixMove\\index2.html"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\FlixMove\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\FlixMove\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\js\\jquery.mCustomScrollbar.min.js",
+      "PackagePath": "staticwebassets\\FlixMove\\js\\jquery.mCustomScrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\js\\jquery.morelines.min.js",
+      "PackagePath": "staticwebassets\\FlixMove\\js\\jquery.morelines.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\js\\jquery.mousewheel.min.js",
+      "PackagePath": "staticwebassets\\FlixMove\\js\\jquery.mousewheel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\js\\main.js",
+      "PackagePath": "staticwebassets\\FlixMove\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\js\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\FlixMove\\js\\nouislider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\FlixMove\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\js\\photoswipe-ui-default.min.js",
+      "PackagePath": "staticwebassets\\FlixMove\\js\\photoswipe-ui-default.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\js\\photoswipe.min.js",
+      "PackagePath": "staticwebassets\\FlixMove\\js\\photoswipe.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\js\\plyr.min.js",
+      "PackagePath": "staticwebassets\\FlixMove\\js\\plyr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\js\\wNumb.js",
+      "PackagePath": "staticwebassets\\FlixMove\\js\\wNumb.js"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\pricing.html",
+      "PackagePath": "staticwebassets\\FlixMove\\pricing.html"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\signin.html",
+      "PackagePath": "staticwebassets\\FlixMove\\signin.html"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\FlixMove\\signup.html",
+      "PackagePath": "staticwebassets\\FlixMove\\signup.html"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Belgeler\\GitHub\\move_backend\\move_app_backend\\move_app_backend\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.move_app_backend.props",
+      "PackagePath": "build\\move_app_backend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.move_app_backend.props",
+      "PackagePath": "buildMultiTargeting\\move_app_backend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.move_app_backend.props",
+      "PackagePath": "buildTransitive\\move_app_backend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.move_app_backend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

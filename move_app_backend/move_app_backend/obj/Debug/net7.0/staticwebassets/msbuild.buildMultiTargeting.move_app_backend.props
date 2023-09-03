@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\move_app_backend.props" />
+</Project>
